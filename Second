@@ -1,4 +1,4 @@
-public class Second //使用陣列
+public class Second{ //使用陣列
   public static void main(String[] args) {
       int p1, p2, p3, p4, p5, p6;
       p1 = p2 = p3 = p4 = p5 = p6 = 0;
